@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sruthisruthi123/woodConnect/static/css/main.8d2eab91.css",
+    "main.js": "/sruthisruthi123/woodConnect/static/js/main.5067c40e.js",
+    "static/js/453.b096d91b.chunk.js": "/sruthisruthi123/woodConnect/static/js/453.b096d91b.chunk.js",
+    "index.html": "/sruthisruthi123/woodConnect/index.html",
+    "main.8d2eab91.css.map": "/sruthisruthi123/woodConnect/static/css/main.8d2eab91.css.map",
+    "main.5067c40e.js.map": "/sruthisruthi123/woodConnect/static/js/main.5067c40e.js.map",
+    "453.b096d91b.chunk.js.map": "/sruthisruthi123/woodConnect/static/js/453.b096d91b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2eab91.css",
+    "static/js/main.5067c40e.js"
+  ]
+}
